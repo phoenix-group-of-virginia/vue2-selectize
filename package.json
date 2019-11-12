@@ -35,6 +35,6 @@
   },
   "dependencies": {
     "deep-equal": "^1.0.1",
-    "selectize": "^0.12.4"
+    "phoenix-group-of-virginia/selectize": "^0.12.7"
   }
 }
